@@ -1,0 +1,10 @@
+C:\Users\MaPhillips\Documents\My Work\Playground\canread-sharp\canread-sharp\bin\Debug\somearticle.htm
+C:\Users\MaPhillips\Documents\My Work\Playground\canread-sharp\canread-sharp\bin\Debug\canread-sharp.exe
+C:\Users\MaPhillips\Documents\My Work\Playground\canread-sharp\canread-sharp\bin\Debug\canread-sharp.pdb
+C:\Users\MaPhillips\Documents\My Work\Playground\canread-sharp\canread-sharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MaPhillips\Documents\My Work\Playground\canread-sharp\canread-sharp\obj\x86\Debug\canread-sharp.exe
+C:\Users\MaPhillips\Documents\My Work\Playground\canread-sharp\canread-sharp\obj\x86\Debug\canread-sharp.pdb
+C:\Users\MaPhillips\Documents\My Work\Playground\canread-sharp\canread-sharp\bin\Debug\HtmlAgilityPack.dll
+C:\Users\MaPhillips\Documents\My Work\Playground\canread-sharp\canread-sharp\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\MaPhillips\Documents\My Work\Playground\canread-sharp\canread-sharp\bin\Debug\HtmlAgilityPack.xml
+C:\Users\MaPhillips\Documents\My Work\Playground\canread-sharp\canread-sharp\bin\Debug\canread-sharp.exe.config
